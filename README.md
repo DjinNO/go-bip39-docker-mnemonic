@@ -1,1 +1,1 @@
-# go-bip39-docker-mnemonic
+docker run djinno/go-bip39-docker-mnemonic:latest
